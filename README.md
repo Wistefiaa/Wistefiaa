@@ -15,5 +15,3 @@ Now I study in Princess Chulabhorn Science High School Buriram.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wistefiaa&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wistefiaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
