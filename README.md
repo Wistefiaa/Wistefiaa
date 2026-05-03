@@ -10,8 +10,5 @@ Now I study in Princess Chulabhorn Science High School Buriram.
 <p align="left">
 <a href="https://instagram.com/np.wistefiaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="np.wistefiaa" height="30" width="40" /></a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wistefiaa&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wistefiaa&layout=compact)
 
