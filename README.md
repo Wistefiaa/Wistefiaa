@@ -28,3 +28,6 @@
 * **Qualified (TOP 15 Teams)** | Technology Promotion Association (Thailand-Japan) Robot Contest Thailand Championship 2024, Robo Soccer
 * **Qualified (TOP 15 Teams)** | Technology Promotion Association (Thailand-Japan) Robot Contest Thailand Championship 2024, Robo Rescue with microROS
 * **Participant** | Sripatum University AI Prompt Mini Hackathon 2024 (Special Track): Unlock Your Coding
+
+**Regional**
+* **Participant** | POSN Computer Olympiad Camp 1
