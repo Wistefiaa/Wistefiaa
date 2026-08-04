@@ -18,4 +18,13 @@
 * **Silver Medal** | World Young Inventor Exhibition 2024 (WYIE2024), Kuala Lumpur, Malaysia
 * **Silver Medal** | World Young Inventor Exhibition 2025 (WYIE2025), Kuala Lumpur, Malaysia
 * **Bronze Award** | Taiwan Innotech Expo 2025 (TIE2025), Taipei, Republic of China (Taiwan)
-* **Special Award** | World Invention Intellectual Property Associations Spec (WIIPA) 
+* **Special Award** | World Invention Intellectual Property Associations Spec (WIIPA)
+* **Honorable Mention** | Thailand-Japan Student Science Fair 2025 (TJ-SSF2025), Pathum Thani, Thailand
+
+**National**
+* **Gold Medal** | Kamalasai AI Robotics and Technology Thailand Championship, Sumo Robot
+* **Gold Medal** | Kamalasai AI Robotics and Technology Thailand Championship, Speed Robot
+* **Bronze Medal** | PCSHS Science Symposium 2025
+* **Qualified (TOP 15 Teams)** | Technology Promotion Association (Thailand-Japan) Robot Contest Thailand Championship 2024, Robo Soccer
+* **Qualified (TOP 15 Teams)** | Technology Promotion Association (Thailand-Japan) Robot Contest Thailand Championship 2024, Robo Rescue with microROS
+* **Participant** | Sripatum University AI Prompt Mini Hackathon 2024 (Special Track): Unlock Your Coding
