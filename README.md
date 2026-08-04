@@ -30,6 +30,7 @@
 
 **Regional**
 * **Participant** | POSN Computer Olympiad Camp 1
+---
 
 **Cinematography**
 
