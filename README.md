@@ -8,7 +8,6 @@
 * **National Electronics and Computer Technology Center (NECTEC) | Information Security Research Team (SEC) Internship**
 * **Junior Project Co Advisor at PCSHSBR STEM Lab**
 * **Teacher Assistant (TA) at PCSHSBR STEM Lab**
-* **Student Council at PCSHSBR**
 ---
 
 ### Honor&Award
@@ -31,3 +30,11 @@
 
 **Regional**
 * **Participant** | POSN Computer Olympiad Camp 1
+
+**Cinematography**
+
+**National**
+* **Winner (1st Place)** | TikTok Challenge "NEW GEN Health D" as Cameraman, Director of Photography and Director of Editing
+
+**Regional**
+* **Gold Award** | Silapa Hattakam as Cameraman, Director of Photography and Director of Editing
