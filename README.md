@@ -23,7 +23,7 @@
 **National**
 * **Gold Medal** | Kamalasai AI Robotics and Technology Thailand Championship, Sumo Robot
 * **Gold Medal** | Kamalasai AI Robotics and Technology Thailand Championship, Speed Robot
-* **Bronze Medal** | PCSHS Science Symposium 2025
+* **Bronze Medal** | 5th PCSHS Science Symposium 2025
 * **Qualified (TOP 15 Teams)** | Technology Promotion Association (Thailand-Japan) Robot Contest Thailand Championship 2024, Robo Soccer
 * **Qualified (TOP 24 Teams)** | Technology Promotion Association (Thailand-Japan) Robot Contest Thailand Championship 2024, Robo Rescue with microROS4
 * **Qualified (TOP 47 Teams)** | Thailand Center of Excellence in Physics Hackathon
