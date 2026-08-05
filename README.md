@@ -47,6 +47,6 @@
 * **100/100 (Full Score)** | Ordinary National Educational Test (O-NET) in Mathematics (Lower Secondary Level)
 * **92/100** | Ordinary National Educational Test (O-NET) in English (Upper Secondary Level)
 * **Participant** | Thailand-Japan Exchange Program with Odate Homei Senior High School
-* **TOP 48** | Admission Test for National Institute of Technology (KOSEN), Japan
+* **TOP 48** | Admission Test for National Institute of Technology (KOSEN) Scholarship (JICA), Japan
 * **Participant** | 13th ASEAN Education Ministers Meeting (ASED) as Presenter
 * **Student Council** | Head of Information Technology
