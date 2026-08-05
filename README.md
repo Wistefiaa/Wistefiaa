@@ -50,3 +50,4 @@
 * **TOP 48** | Admission Test for National Institute of Technology (KOSEN) Scholarship (JICA), Japan
 * **Participant** | 13th ASEAN Education Ministers Meeting (ASED) as Presenter
 * **Student Council** | Head of Information Technology
+* **In Teanm** | PCSHSBR Young Physics Tournament team as Builder, Advisor
