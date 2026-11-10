@@ -1,6 +1,6 @@
 <div align="center">
 
-# HI! I'm Deaw
+# Hi! I'm Deaw
 
 ### Computer Engineering and Digital Technology student at Chulalongkorn University
 
