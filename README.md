@@ -22,11 +22,15 @@ I'm Nipitphon Cheawchatchawan, a Computer Engineering and Digital Technology stu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,flask,ts,js,react,next,nodejs,express,go,cpp,postgres,mongodb,postman,docker,git,github,vscode,arduino" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,flask,ts,js,react,next,nodejs,express,go,cpp,postgres,mongodb,postman,docker,git,github,vscode,arduino" />
+  <br />
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wistefiaa&theme=radical&show_icons=true" alt="GitHub Stats" />
+  </a>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
